@@ -1,0 +1,8 @@
+x = str(1)
+y = str(2.8)
+z = str("3")
+w = str("s1")
+print(x)
+print(y)
+print(z)
+print(w)

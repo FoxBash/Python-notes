@@ -1,0 +1,5 @@
+myTuple = ("apple","banana","cherry")
+myit = iter(myTuple)
+print(next(myit))
+print(next(myit))
+print(next(myit))
